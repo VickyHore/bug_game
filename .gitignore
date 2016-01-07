@@ -1,0 +1,4 @@
+images/*.pptx
+*.pyc
+*.swo
+.DS_Store
